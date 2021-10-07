@@ -8,10 +8,13 @@ made by Jaehyeok Choi
 
 ![course_button](https://github.com/Choi-JaeHyeok-21500749/2805/blob/main/2805_pro.JPG)
 
-##What Algorithm should I use?
+## What Algorithm should I use?
 
 binaray search
 
+## What was the hard part?
+
+Please, don't forget to use long or long long type if variable is big...... :(
 ## Where can I get more help, if I need it?
 
 You can contact me through email, which is 21500749@handong.edu.
